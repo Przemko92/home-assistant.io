@@ -33,18 +33,18 @@ This integration is created by [Compit](https://compit.pl/) to integrate air con
 | Device        | Description                                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Nano Color 2  | https://compit.pl/produkty/termostaty-pokojowe/88-termostat-pokojowy-nano-color-2.html?ic=1                                                                   |
-| Nano Color    |
+| Nano Color    |                                                                                                                                                               |
 | Nano One      | https://compit.pl/produkty/termostaty-pokojowe/24-termostat-pokojowy-nano-one.html?ic=1                                                                       |
 | R900          | https://compit.pl/produkty/sterowniki-pomp-ciepla/89-r900.html?ic=1                                                                                           |
 | R810          | https://compit.pl/produkty/sterowniki-instalacji/43-pogodowy-regulator-temperatury-obiegu-grzewczego-r810.html?ic=1                                           |
 | R490          | https://compit.pl/produkty/sterowniki-pomp-ciepla/12-sterownik-pompy-ciepla-r490-one.html?ic=1                                                                |
-| R480          |
+| R480          |                                                                                                                                                               |
 | R470          | https://compit.pl/produkty/sterowniki-pomp-ciepla/10-sterownik-pompy-ciepla-r470-one.html?ic=1                                                                |
 | R770RS R771RS | https://compit.pl/produkty/sterowniki-do-kotlow/83-pogodowy-regulator-kotla-retortowego-i-instalacji-grzewczej-r771-2.html?ic=1                               |
-| BWC310        |
-| BioMax775     |
-| BioMax772     |
-| BioMax742     |
+| BWC310        |                                                                                                                                                               |
+| BioMax775     |                                                                                                                                                               |
+| BioMax772     |                                                                                                                                                               |
+| BioMax742     |                                                                                                                                                               |
 | SHC           | https://compit.pl/produkty/osprzet/67-czujnik-stezenia-dwutlenku-wegla-wilgotnosci-i-temperatury-w-pomieszczeniach-shc.html?ic=1                              |
 | SPM           | https://compit.pl/produkty/osprzet/87-czujnik-jakosci-powietrza-spm.html?ic=1                                                                                 |
 | L2            | https://compit.pl/produkty/sterowniki-ogrzewania-podlogowego/40-sterownik-ogrzewania-podlogowego-l2.html?ic=1                                                 |
